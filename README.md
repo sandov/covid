@@ -4,3 +4,9 @@ Integrantes:
 - Ricardo Coronado
 - Eduardo Hopperdietzel
 - Diego Sandoval
+
+---
+
+Antes de hacer commit, recordar limpiar las celdas de output:
+
+`Cell` > `All Output` > `Clear`
