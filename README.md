@@ -10,3 +10,5 @@ Integrantes:
 Antes de hacer commit, recordar limpiar las celdas de output:
 
 `Cell` > `All Output` > `Clear`
+
+### [Link Dashboard Interactivo](https://covid-interactivo.herokuapp.com)
